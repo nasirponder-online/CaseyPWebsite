@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Casey Promise - Visual Arts | Art</title>
+</head>
+<body id="body">
+    <div id="top_of_page"></div>
+    <nav>
+        <div class="name"><a href="index.html">casey promise</a></div>
+        <div class="exports" id="exports">
+            <a href="in_the_media.html">in the media</a>
+            <a href="art.html">art</a>
+            <a href="drawings.html">drawings</a>
+            <a href="about.html">about</a>
+        </div>
+        <div class="menu-btn" onclick="viewMenu()" id="menuBtn"><div></div><div></div><div></div></div>
+    </nav>
+    <!-- s -->
+    <!-- e -->
+    <footer>© casey promise - visual arts</footer>
+</body>
+<link rel="stylesheet" href="styles.css">
+<script src="script.js"></script>
+</html>
+
+
+-----
